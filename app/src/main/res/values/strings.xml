@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Teman Bisindo</string>
+    <string name="logo_name">Teman Bisindo</string>
+    <string name="slogan_name">Mari Belajar Bahasa Isyarat</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Selamat Datang</string>
+    <string name="second_slide_title">Kemudahan Belajar</string>
+    <string name="third_slide_title">Ayo Mulai</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc"> </string>
+    <string name="second_slide_desc">Teman BISINDO akan membantu kamu dalam mengenal Bahasa Isyarat</string>
+    <string name="third_slide_desc"> </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+</resources>

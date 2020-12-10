@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "121605246779",
+    "project_id": "bisindo-8a7d0",
+    "storage_bucket": "bisindo-8a7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121605246779:android:6b71eda37cc4804070b11e",
+        "android_client_info": {
+          "package_name": "com.example.temanbisindo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121605246779-cmfop4aonfuisoajhhovcapvv9k4g6d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.temanbisindo",
+            "certificate_hash": "5918a01cac28c976c21d4ca9467680ec77489c48"
+          }
+        },
+        {
+          "client_id": "121605246779-3pcf50hjtk061aq9if51vko3rr9h15hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-Yc-FO_lHj_dFCJhWxQgA_dCRCbrEgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121605246779-3pcf50hjtk061aq9if51vko3rr9h15hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
